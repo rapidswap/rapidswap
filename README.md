@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=venom)
-![header](https://capsule-render.vercel.app/api?text=Hello%World!?type=venom)
+![header](https://capsule-render.vercel.app/api?type=venom&text=hh)
+
 -Skills
 
 ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
