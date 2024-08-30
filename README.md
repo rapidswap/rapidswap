@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&text=Rapidswap's% Github)
+![header](https://capsule-render.vercel.app/api?type=venom&text=Rapidswap's Github)
 
 -Skills
 
