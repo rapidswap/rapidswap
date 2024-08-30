@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=venom&text=Rapidswap%Github)
+![header](https://capsule-render.vercel.app/api?type=venom&text=Rapidswap)
 
--Skills
+-Studying
 
 ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -23,3 +23,5 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rapidswap)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rapidswap&layout=compact)
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
