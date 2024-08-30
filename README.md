@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&text=Rapidswap)
 <div align="center">
-<h3>📖 Studying 📖</h3>
+<h3>📖 *Studying* 📖</h3>
 
 
 ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -13,7 +13,7 @@
 ![Py](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 
-<h3>🖥️ OS 🖥️</h3>
+<h3>🖥️ *OS* 🖥️</h3>
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
