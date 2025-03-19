@@ -16,6 +16,9 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 </div>
 
+Contact
+
+Email: curudow7988@gmail.com
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rapidswap)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rapidswap&layout=compact)
