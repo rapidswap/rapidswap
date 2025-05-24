@@ -19,8 +19,8 @@
 Contact
 
 Email: curudow7988@gmail.com
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kjseoin7988)](https://solved.ac/kjseoin7988/)
-출처: https://soo-vely-dev.tistory.com/159 [soo_vely의 개발로그:티스토리]
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rapidswap)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rapidswap&layout=compact)
 
