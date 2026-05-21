@@ -20,7 +20,6 @@ Contact
 Email: curudow7988@gmail.com
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kjseoin7988)](https://solved.ac/kjseoin7988/)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rapidswap)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rapidswap&layout=compact)
+
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
